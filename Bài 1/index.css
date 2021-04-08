@@ -7,7 +7,6 @@ body{
     background-image: url("/img/course-phone.png");
     width:100%;
     height:100%;
-    /* background-position: center; */
     background-size:cover;
 }    
 header{
@@ -15,7 +14,6 @@ header{
     height : 150px;
 }
 header .box-container{
-    /* background-color:red; */
     width: 100%;
     height: 100%;
     background-image: url("/img/banner-2.png");
@@ -24,9 +22,6 @@ header .box-container{
     background-size: cover;
     position : relative;
     text-align: center;
-    /* display: flex;
-    justify-content: center;
-    align-items: center; */
 
 }
 header .box-container div{
