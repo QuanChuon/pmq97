@@ -1,0 +1,126 @@
+*{
+    padding : 0px;
+    margin : 0px;
+}
+img{
+    width:100vh;
+}
+.bf-box{
+    height : 500px;
+    width: 100%;
+}
+.feature{
+    width:50%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:50px;
+    p{
+        padding-top: 20px;
+    }
+}
+
+.col-sm-4{
+    text-align: center;
+    padding-top: 20px;
+    div .fa-camera-retro{
+        font-size: 50px;
+        color: rgba(255, 217, 0, 0.829);
+    }
+    div .fa-heart{
+        font-size: 50px;
+        color: rgba(255, 0, 0, 0.952);
+    }
+    div .fa-bicycle{
+        font-size: 50px;
+        color: rgb(0, 4, 255);
+    }
+}
+.stunning{
+    text-align: center;
+    border-top: solid 1px rgb(190, 190, 190);
+    padding-bottom : 50px;
+    h1{
+        padding-top:50px;
+        padding-bottom:50px;
+    }
+}
+.card-body{
+    h5{
+        font-weight: bolder;
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+}
+.gallery-heading{
+    text-align: center;
+    border-top: solid 1px rgb(190, 190, 190);
+    padding-bottom : 100px;
+    h1{
+        padding-top:50px;
+        padding-bottom:50px;
+    }
+}
+.gallery-heading .mb-3 .g-0 .col-md-8 .card-body{
+    position:absolute;
+    text-align: left;
+    left:50%;
+    .lifestyle{
+        color:rgb(0, 110, 255);
+    }
+    .btn-primary{
+        color:black;
+    }
+}
+.contact-us{
+    text-align: center;
+    border-top: solid 1px rgb(190, 190, 190);
+    h1{
+        padding-top:50px;
+        padding-bottom:50px;
+    }
+    .mb-3{
+        text-align:left;
+        p.ct-text{
+            font-weight: 800px;
+        }
+    }
+}
+.social{
+    padding-top:50px;
+    padding-bottom:50px;
+    .col-sm-4{
+        position:absolute;
+        right : 0px;
+        padding:0px;
+    }
+    a{
+        text-decoration: none;
+        i{
+            color:black;
+            padding-right:10px;
+            font-size: 20px;
+        }
+    }
+}
+.footer-container{
+    .row .col{
+        padding-right:60px;
+    }
+    h3{
+        padding-bottom: 10px;
+        font-size: 20px;
+    }
+    a{
+        text-decoration: none;
+        font-size:15px;
+        padding-top:10px;
+        padding-bottom:10px;
+    }
+    div.contact a{
+        color:black;
+        i{
+            padding-right:10px;
+        }
+    }
+}
